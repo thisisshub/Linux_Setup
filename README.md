@@ -1,5 +1,5 @@
 # Linux_Setup
-# You can comment any module that you like and that won't get installed
+# You can comment any module that you don't like and that won't get installed
 
 This is a Linux Shell Setup Script. 
 It contains all the necessary modules or apps you might need after starting fresh on linux
