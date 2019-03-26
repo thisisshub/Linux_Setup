@@ -30,14 +30,14 @@ if you have installed git already then just clone this repository, change to the
 sudo -s
 ```
 
-# If you have installed Git Already then 
+# If you have installed Git Already
 ```
 git clone https://github.com/thisisshub/Linux_Setup.git
 cd Linux_Setup
 chmod +x install.sh
 ./install.sh
 ```
-# If you have not installed Git already then.8
+# If you have not installed Git already
 download the install.sh file 
 change to the required directory where install.sh is placed
 run 
